@@ -1,7 +1,7 @@
 #  Mouhtaseb Bilal 
 
 ## Etudiant TSSR
-### Technicien supér     en système et réseaux                            ![Bilal]("./Photo cv.png":w)
+### Technicien supér     en système et réseaux                            ![Bilal]("./Photo cv.png")
 ##### _37ans_    
 ___   
 
