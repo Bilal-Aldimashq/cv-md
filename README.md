@@ -2,7 +2,7 @@
 
 ## Etudiant TSSR
 ### Technicien supérieur système et réseaux  
-![Bilal]("./Photo cv.png")
+![Bilal](./Photo cv.png)
 ##### _37ans_    
 ___   
 
