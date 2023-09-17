@@ -16,7 +16,7 @@ Je souhaite mettre à profits mes capacités logiques,  d'analyse de problèmes 
 ainsi que ma persévérance  dans le domaine de la cybersecurité qui est un enjeu maj     dans la vie quotidienne de tout le monde.
 ___
 #### **Formation**  
-* [**Wild code School**     ](www.wildcodeschool.com)
+* [**Wild code School**](https://www.wildcodeschool.com)
 Septembre 2023- Février 2024
 Prépartion au titre de TSSR (Technicien supérieur système et réseaux) Niveau 5 (bac+2)  
 * **L.E.P Auguste Perret (Evry 91)**
