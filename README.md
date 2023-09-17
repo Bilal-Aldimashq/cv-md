@@ -2,7 +2,7 @@
 
 ## Etudiant TSSR
 ### Technicien supérieur système et réseaux  
-![Bilal](Photo cv.png)
+![Bilal](https://github.com/Bilal-Aldimashq/cv-md/blob/main/Photo%20cv.png)
 ##### _37ans_    
 ___   
 
