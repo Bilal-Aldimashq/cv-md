@@ -11,9 +11,9 @@ ___
 
 
 #### **Présentation**  
-Après 20 ans en tant que Plombier-chauffagiste , j'entreprends une reconversion profes  sionnel dand l'IT et plus précisément dans la sécurisation des infastructure et des réseaux.  
-Je souhaite mettre à profits mes capacités logiques,  d'analyse de problèmes etde leur  résolution
-ainsi que ma persévérance  dans le domaine de la cybersecurité qui est un enjeu maj     dans la vie quotidienne de tout le monde.
+Après 20 ans en tant que Plombier-chauffagiste , j'entreprends une reconversion professionnel dand l'IT, plus précisément dans la sécurisation des infastructure et des réseaux.  
+Je souhaite mettre à profits mes capacités logiques, d'analyse et de résolution de problème
+ainsi que ma persévérance  dans le domaine de la cybersecurité qui est un enjeu majeur dans la vie quotidienne de tout le monde.
 ___
 #### **Formation**  
 * [**Wild code School**](https://www.wildcodeschool.com)
@@ -35,7 +35,14 @@ Business plan, création d'une entreprise B2B et B2C.Prospection, plan de commun
 Maîtrise d'oeuvres, chiffrage et gestion fnancière. 
 Comptabilité, négociation avec fournisseur.  
 * **Association ANAIS**, _Moniteur d'Atelier_, Encadrant de personne en situation de handicap: 2013-2018  
-
-Secteur électrique, adaptation des postes de travails et des procédures d'éxecutions pour la sécurité et le confort des travailleurs. Réalisation de bilan individuel et de synthèse annuel.  
+ Secteur électrique, adaptation des postes de travails et des procédures d'éxecutions pour la sécurité et le confort des travailleurs. Réalisation de bilan individuel et de synthèse annuel.  
 ____
-
+#### **Loisirs**  
+* Sports
+* Sports mécaniques
+* Moto
+* Lecture
+____
+#### **Skills**  
+**Anglais**: _Niveau B1_ parlé, lu et écrit.  
+**Arabe**: _Niveau C2_ parlé, lu et écrit. 
