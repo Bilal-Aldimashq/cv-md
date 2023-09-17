@@ -26,7 +26,7 @@ BacPro GMSEC (Gestion et maintenance des système énergétique et climatique) N
 
 ___
 #### **Expérience professionnel**
-* **Aéro Solutions**, _Responsable technique Chauffagiste_. Août 2021 à Août 2023
+* [**Aéro Solutions**](https://www.aero-solutions72.com/), _Responsable technique Chauffagiste_. Août 2021 à Août 2023
 Encadrement de 2 collaborateurs, prise en charge des projetstravaux et reporting avec la direction et les clients.  _Postes similaires de 2005 à 2011._  
 * **Chef d'entreprise**
   * **BM Chauffage**: 2018-2021
